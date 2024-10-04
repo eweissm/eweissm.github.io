@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D Mechanical Engineering, Arizona State University, 2028 (expected)
 * B.S.E., Concurrent Honors Aerospace Engineering; Minor in Spanish Linguistics, Arizona State University, 4.0/4.0, 2024
-  *  Summa Cumma Laude; Moeur Award
+  *  Summa Cumma Laude; Moeur Award; New American Univeristy President's Award
 
 
 Work experience
@@ -51,12 +51,34 @@ excellent customer service ∙ Accounted for daily sales over $17,000 including 
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+*  Simulation
+  * Incompressible CFD (Advanced)
+  * COMSOL (Beginner)
+  * Ansys / FLUENT (Intermediate)
+  * ABAQUS (Beginner)
+*  Software:
+  * SOLIDWORKS (Advanced)
+  * Fusion 360 (Advanced)
+  * NX (Beginner)
+  * QuantumXL (Beginner)
+  * ModelCenter(Intermediate)
+  * STM32CUBEIDE (Intermediate)
+  * Eagle (Beginner)
+*  System Design:
+  *  DOE (Advanced)
+  *  Design Optimization (Intermediate)
+  *  ARM STM32 (Beginner)
+  *  Serial Robotic Systems (Intermediate)
+  *  DED Additive Manufacturing Processes (Advanced)
+  *  Soft Robotic Systems (Advanced)
+*  Programming:
+  *  C++ (Intermediate)
+  *  Python (Advanced)
+  *  VBA (Beginner)
+  *  C (Beginner)
+  *  MATLAB (Advanced)
+*  Certifications
+  *  Spanish (Professional Working Proficiency)- Arizona Seal of Biliteracy
 
 Publications
 ======
@@ -64,18 +86,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
