@@ -19,7 +19,7 @@ computational cost. Finally, the developed model was used to perform a parameter
 demonstrating a use case of the tool to help in parameter optimization.'
 date: 2024
 venue: 'KEEP'
-paperurl: '[http://academicpages.github.io/files/paper3.pdf](https://hdl.handle.net/2286/R.2.N.191782)'
+paperurl: 'https://hdl.handle.net/2286/R.2.N.191782'
 citation: 'Weissman, Eric M. “Methods for Modeling Metal Additive Manufacturing Deposition Using Computational Fluid 
 Dynamics with a Commercial Package.” KEEP, May 2024.'
 ---
