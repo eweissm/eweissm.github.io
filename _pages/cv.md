@@ -82,7 +82,11 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Weissman, Eric M. “Methods for Modeling Metal Additive Manufacturing Deposition Using Computational Fluid 
+Dynamics with a Commercial Package.” KEEP, May 2024.
+
+Bryan, Brendyn C., Weissman, Eric M., Phung, Jonathan V., et al. “Aerodynamic Design of an Executive Transport 
+Optimized for Flight Just Beyond Mach One.” AIAA SciTech Forum, 2025.
+
+ADD PCA
   
