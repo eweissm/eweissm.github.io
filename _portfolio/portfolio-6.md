@@ -1,10 +1,13 @@
 ---
 title: "Academic Projects"
-excerpt: "Time evolution of chemical species within the mixing chamber ![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/e5122afc-831d-4cc4-ad37-c405d0b55118)"
+excerpt: "https://github.com/user-attachments/assets/46e876e9-2375-454e-a1da-49bc5ebfe968"
 collection: portfolio
 ---
 
-https://github.com/user-attachments/assets/e5122afc-831d-4cc4-ad37-c405d0b55118
+
+https://github.com/user-attachments/assets/46e876e9-2375-454e-a1da-49bc5ebfe968
+
+
 
 
 **Ramjet Optimization Tool**
