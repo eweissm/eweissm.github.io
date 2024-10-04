@@ -1,7 +1,7 @@
 ---
 title: "Methods for Modeling Metal Additive Manufacturing Deposition Using Computational Fluid Dynamics with a Commercial Package"
 collection: publications
-category: Conference Papers
+category: conferences
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'With the growth of the additive manufacturing (AM) industry for metal components, there is an
 economic pressure for improved AM processes to overcome the shortcomings of current AM technologies (i.e.,
