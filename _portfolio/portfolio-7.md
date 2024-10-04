@@ -1,6 +1,6 @@
 ---
 title: "Engineering as a Lifelong Passion: Home-made Rocket Motor"
-excerpt: "Home-made rocket motor flaying ![image](https://github.com/user-attachments/assets/53281855-241b-417d-a2be-6ca5acd5fd08)"
+excerpt: "![image](https://github.com/user-attachments/assets/53281855-241b-417d-a2be-6ca5acd5fd08)"
 collection: portfolio
 ---
 
