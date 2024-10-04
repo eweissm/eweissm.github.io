@@ -1,6 +1,7 @@
 ---
 title: "Academic Projects"
-excerpt: "... <br/><img src='/images/500x300.png'>"
+excerpt: "Time evolution of chemical species within the mixing chamber ![image](https://github.com/user-attachments/assets/ffb41f21-976c-482c-9b9d-a8aaeae1b030)
+"
 collection: portfolio
 ---
 **Ramjet Optimization Tool**
