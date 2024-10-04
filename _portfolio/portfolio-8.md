@@ -1,7 +1,6 @@
 ---
 title: "Mixed Media Art Projects"
 excerpt: "![IMG_5104](https://github.com/user-attachments/assets/83b053b0-98a6-4df8-86db-e99b2cc365c2)"
-"
 collection: portfolio
 ---
 
