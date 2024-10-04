@@ -14,6 +14,16 @@ During my time at Rosotics inc., a startup looking to develop induction-based ad
 •	Explorations of process parameters (operating temperature, feed stock diameter, mass flux, substrate material, nozzle material, shielding gas, and auxiliary heat sources)
 •	Continual refinement of the experimental setup and of process reliability
 
+![image](https://github.com/user-attachments/assets/ce74565b-9910-4fe4-bebc-6df3a2f8b276)
+![image](https://github.com/user-attachments/assets/9a57ab6f-337f-4a83-ad52-a5cae2d7c02d)
+![image](https://github.com/user-attachments/assets/5879519a-cfc2-4eb0-9d0f-9788bc13a1e0)
+
+
 **2 DOF Cylindrical Printer**
 While the print head development was unequivocally a team effort, the development of the structure and controls for our full-scale prototype system fell on my shoulders as I was Rosotics’ only structural and controls engineer at the time. Thus, I was responsible for modeling the machine in SolidWorks, using FEA and first principles to validate the designs, and coordinating with machine shops to order components. I was then responsible for implementing and coding the control systems (a Parker ACR controller and drivers using a Nabtesco gearbox). The result was a machine which could locate our 40 lb. print head with 0.1 mm repeatability over a 12 ft diameter by 6 ft high cylindrical table. Additionally, the table could support an 800 lb. distributed load without the code needing to accommodate for the deflection of the print bed.
+
+![image](https://github.com/user-attachments/assets/ddd25c87-d8ca-4fb1-9cd9-eca5de9f40ed)
+![image](https://github.com/user-attachments/assets/1e1ff1f6-9029-4e67-adb8-4336e5abe2e2)
+![image](https://github.com/user-attachments/assets/6a722713-b05e-4b37-8d71-bd7c8149d1a0)
+![image](https://github.com/user-attachments/assets/5c78969b-e81e-4151-a9f8-78248150be10)
 
