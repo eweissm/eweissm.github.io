@@ -36,6 +36,10 @@ Resin; Steel Rod; Pine
 ![IMG_7995](https://github.com/user-attachments/assets/14fd3086-a098-43ff-918b-1659e4046de2)
 
 
+**Zen Garden with speaker**
+
+Walnut; Pine; Sand; Speaker
+
 ![IMG_7527](https://github.com/user-attachments/assets/2e838b83-6674-4a7c-af52-4f938187c8ff)
 ![IMG_7526](https://github.com/user-attachments/assets/7718e814-c3a5-409a-a1aa-c37a40bec780)
 ![IMG_7524](https://github.com/user-attachments/assets/65dd4fc6-c6b9-4da7-b4c6-b29b70c3c5a5)
