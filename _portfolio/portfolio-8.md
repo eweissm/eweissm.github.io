@@ -17,12 +17,17 @@ Shown below is a listing of various mixed media (wood, resin, and metal work) wh
 ![IMG_8491](https://github.com/user-attachments/assets/b115a3b7-e78e-4899-816c-63a1c3e3f793)
 ![IMG_8490](https://github.com/user-attachments/assets/434828ab-84ab-4493-91f8-111bcd2da710)
 
-**Resin Model of a Fun Character**
+**Diarama of Water Slash**
 
 ![IMG_8232](https://github.com/user-attachments/assets/ab0b7b91-9d89-44cd-ae50-6c64b300e9b8)
 ![IMG_8230](https://github.com/user-attachments/assets/d6c564eb-c0a1-4a4f-abad-b90fed1158af)
+
+**Resin Model of a Fun Character**
+
 ![IMG_7996](https://github.com/user-attachments/assets/fb5bb04e-a668-4463-af3d-c3095cac827c)
 ![IMG_7995](https://github.com/user-attachments/assets/14fd3086-a098-43ff-918b-1659e4046de2)
+
+
 ![IMG_7527](https://github.com/user-attachments/assets/2e838b83-6674-4a7c-af52-4f938187c8ff)
 ![IMG_7526](https://github.com/user-attachments/assets/7718e814-c3a5-409a-a1aa-c37a40bec780)
 ![IMG_7524](https://github.com/user-attachments/assets/65dd4fc6-c6b9-4da7-b4c6-b29b70c3c5a5)
