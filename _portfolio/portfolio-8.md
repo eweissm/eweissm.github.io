@@ -28,13 +28,14 @@ Resin; Pine; Steel Ball Bearing
 ![IMG_8232](https://github.com/user-attachments/assets/ab0b7b91-9d89-44cd-ae50-6c64b300e9b8)
 ![IMG_8230](https://github.com/user-attachments/assets/d6c564eb-c0a1-4a4f-abad-b90fed1158af)
 
-**Resin Model of a Fun Character**
+**Original Characters**
 
-Resin; Steel Rod; Pine
+Resin; Steel Rod; Pine; Copper Wire
 
+![IMG_7997](https://github.com/user-attachments/assets/d1f96c25-0b44-402e-8dda-2a07aab7e29f)
 ![IMG_7996](https://github.com/user-attachments/assets/fb5bb04e-a668-4463-af3d-c3095cac827c)
 ![IMG_7995](https://github.com/user-attachments/assets/14fd3086-a098-43ff-918b-1659e4046de2)
-
+![IMG_6936](https://github.com/user-attachments/assets/6f0a4a39-7257-4e15-a5e7-b4a7c87c263a)
 
 **Zen Garden with speaker**
 
@@ -43,7 +44,9 @@ Walnut; Pine; Sand; Speaker
 ![IMG_7527](https://github.com/user-attachments/assets/2e838b83-6674-4a7c-af52-4f938187c8ff)
 ![IMG_7526](https://github.com/user-attachments/assets/7718e814-c3a5-409a-a1aa-c37a40bec780)
 ![IMG_7524](https://github.com/user-attachments/assets/65dd4fc6-c6b9-4da7-b4c6-b29b70c3c5a5)
-![IMG_6936](https://github.com/user-attachments/assets/6f0a4a39-7257-4e15-a5e7-b4a7c87c263a)
+
+**Chess Board and Cutting Board**
+
 ![IMG_6907](https://github.com/user-attachments/assets/cfa6d0ec-28f7-4a9b-a1e1-76eba2a36ac9)
 ![IMG_6906](https://github.com/user-attachments/assets/bee695e0-3c87-4c45-8a11-9f99b4787063)
 ![IMG_6900](https://github.com/user-attachments/assets/37813772-21f1-40f6-8379-5303e2dd3544)
