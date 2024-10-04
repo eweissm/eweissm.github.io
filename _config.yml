@@ -12,7 +12,7 @@ title                    : "Eric Weissman"
 title_separator          : "-"
 name                     : &name "Eric Weissman"
 description              : &description "Engineering and Professional Portfolio"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://eweissm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "eweissm/eweissm.github.io"
 
