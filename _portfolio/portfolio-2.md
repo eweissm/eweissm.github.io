@@ -1,6 +1,6 @@
 ---
 title: "Robotic Gear Boxes"
-excerpt: "Robotic Harmonic Drive <br/><img src='/images/500x300.png'>"
+excerpt: "Robotic Harmonic Drive ![image](https://github.com/user-attachments/assets/3ca58ee5-c474-41b4-9732-e0d820c7cd56)"
 collection: portfolio
 ---
 
