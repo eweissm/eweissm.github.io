@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 **Harmonic Drive**
-Shown below is a 3D printed harmonic gearbox capable of a 25:1 reduction for a Nema-17 stepper motor. The image on the right is a cross section showing the elliptical spline (orange), the flex-spline (pink), and the circular spline which doubles as the casing (green). 
+Shown below is a 3D printed harmonic gearbox capable of a 25:1 reduction for a Nema-17 stepper motor. The second image is a cross section showing the elliptical spline (orange), the flex-spline (pink), and the circular spline which doubles as the casing (green). 
 This project was deceptively challenging as the flex-spline was printed using a relatively cheap FDM printer. Thus, the low tolerance and interference required to make a reliable harmonic drive necessitated a substantial amount of testing and refinement. 
 
 ![image](https://github.com/user-attachments/assets/9101bf9d-e571-4707-bcb9-4042f5be6f0e)
