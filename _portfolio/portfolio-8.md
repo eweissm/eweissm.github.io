@@ -6,8 +6,12 @@ collection: portfolio
 ---
 
 Shown below is a listing of various mixed media (wood, resin, and metal work) which I have made
+
+**Terrarium Stand**
 ![IMG_9102](https://github.com/user-attachments/assets/768bfb32-ed2b-49b7-be51-9c2d4dc83b03)
 ![IMG_9104](https://github.com/user-attachments/assets/32206e87-d9d5-45af-bdf9-39ba9ebff736)
+
+
 ![IMG_8491](https://github.com/user-attachments/assets/b115a3b7-e78e-4899-816c-63a1c3e3f793)
 ![IMG_8490](https://github.com/user-attachments/assets/434828ab-84ab-4493-91f8-111bcd2da710)
 ![IMG_8232](https://github.com/user-attachments/assets/ab0b7b91-9d89-44cd-ae50-6c64b300e9b8)
