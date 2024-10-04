@@ -17,7 +17,7 @@ implementation are qualitatively promising when compared to samples produced by 
 processes, however additional work is needed to validate the model more rigorously and to reduce the 
 computational cost. Finally, the developed model was used to perform a parameter sweep, thereby 
 demonstrating a use case of the tool to help in parameter optimization.'
-date: 2024
+date: 2024-05-01
 venue: 'KEEP'
 paperurl: 'https://hdl.handle.net/2286/R.2.N.191782'
 citation: 'Weissman, Eric M. “Methods for Modeling Metal Additive Manufacturing Deposition Using Computational Fluid 
