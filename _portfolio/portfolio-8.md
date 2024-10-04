@@ -5,7 +5,9 @@ excerpt: "Automatic Zen Garden ![image](https://github.com/user-attachments/asse
 collection: portfolio
 ---
 
-Shown below is a listing of various mixed media (wood, resin, and metal work) which I have made
+Shown below is a listing of various mixed media (wood, resin, and metal work) which I have made.
+
+As an aside, I want to apologize for the poor camera work. The majority of these projects were gifts, so I no longer have access to the projects to take proper photos.
 
 **Terrarium Stand**
 
@@ -77,4 +79,5 @@ Cedar
 **Aluminum Skull**
 
 Lost Wax Casted Aluminum
+
 ![IMG_6913](https://github.com/user-attachments/assets/2316feee-c602-4b31-91ee-d5f5c9da4292)
