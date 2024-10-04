@@ -37,7 +37,7 @@ Resin; Steel Rod; Pine; Copper Wire
 ![IMG_7995](https://github.com/user-attachments/assets/14fd3086-a098-43ff-918b-1659e4046de2)
 ![IMG_6936](https://github.com/user-attachments/assets/6f0a4a39-7257-4e15-a5e7-b4a7c87c263a)
 ![IMG_6900](https://github.com/user-attachments/assets/37813772-21f1-40f6-8379-5303e2dd3544)
-![IMG_6913](https://github.com/user-attachments/assets/2316feee-c602-4b31-91ee-d5f5c9da4292)
+![IMG_6908](https://github.com/user-attachments/assets/74a0444c-3e23-4c16-aa1a-e943e0d9ee3f)
 
 **Zen Garden with Speaker**
 
@@ -67,5 +67,4 @@ Brass; PLA
 **Aluminum Skull**
 
 Lost Wax Casted Aluminum
-
-![IMG_6908](https://github.com/user-attachments/assets/74a0444c-3e23-4c16-aa1a-e943e0d9ee3f)
+![IMG_6913](https://github.com/user-attachments/assets/2316feee-c602-4b31-91ee-d5f5c9da4292)
