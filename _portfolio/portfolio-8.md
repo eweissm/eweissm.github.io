@@ -1,5 +1,5 @@
 ---
-title: "Mixed Media Art Projects
+title: "Mixed Media Art Projects"
 excerpt: "Automatic Zen Garden ![image](https://github.com/user-attachments/assets/4814ef8b-9098-4920-9d46-4f33e112b9e2)
 "
 collection: portfolio
@@ -18,8 +18,8 @@ Pine
 
 Walnut; Pine; Steel Plate
 
-![IMG_8491](https://github.com/user-attachments/assets/b115a3b7-e78e-4899-816c-63a1c3e3f793)
-![IMG_8490](https://github.com/user-attachments/assets/434828ab-84ab-4493-91f8-111bcd2da710)
+![IMG_8491](https://github.com/user-attachments/assets/da6369eb-767d-4819-a36c-468a0746f6ac)
+![IMG_8490](https://github.com/user-attachments/assets/1fa8ca36-3f56-4dbe-b6f0-f7b4737c4d32)
 
 **Diarama of Water Slash**
 
