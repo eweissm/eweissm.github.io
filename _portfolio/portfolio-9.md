@@ -4,6 +4,9 @@ excerpt: "![image](https://user-images.githubusercontent.com/73143081/197682335-
 collection: portfolio
 ---
 
+
+This project involved training a neural network to control a 3 DOF (2 translational and 1 rotational) rocket coming in for a landing. The network needed to land the rocket (have a speed equal to zero at the landing pad) before the fuel ran out. The model was trained by generating a rocket at a random coordinate with a random velocity at t=0s and weighing the performance of the controller to land the rocket. Two different algorithms were investigated (AdaMax and LBFGS), with the AdaMax converging slower but with fewer residuals. It is important to note that the rockets could be spawned in unrecoverable initial conditions, so the residuals never reached zero. For a full discussion of this project see https://github.com/eweissm/Rocket-Neural-Network-Optimized-Control.
+
 The goal of this project is to make a controller which lands a rocket at a landing pad with at the end of a given time frame. The rockets will start in random initial states and will be subjected to gravity and drag. The rocket will control its angle and thrust. 
 
 ## State: 
