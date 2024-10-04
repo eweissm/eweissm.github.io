@@ -1,6 +1,6 @@
 ---
 title: "Mixed Media Art Projects"
-excerpt: "Automatic Zen Garden ![image](https://github.com/user-attachments/assets/4814ef8b-9098-4920-9d46-4f33e112b9e2)
+excerpt: "![IMG_5104](https://github.com/user-attachments/assets/83b053b0-98a6-4df8-86db-e99b2cc365c2)"
 "
 collection: portfolio
 ---
