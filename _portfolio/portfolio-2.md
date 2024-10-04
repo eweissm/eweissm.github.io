@@ -20,7 +20,7 @@ This is a single stage planetary gear box designed for use on a 6 DOF robotic ar
 ![image](https://github.com/user-attachments/assets/01655a96-847c-429c-bbdd-1dcf91a5a559)
 
 **Slew Drive**
-This is a 3D printed slew drive with a 132:1 gear reduction meant to be driven by a Nema-17. As can be seen above under Print Head Technology, the slew drive was co-opted at Rosotics into the test stand we used for the print head development. The model used at Rosotics has some additions to allow it to be leveled and to better survive the high temperature environment.
+This is a 3D printed slew drive with a 132:1 gear reduction meant to be driven by a Nema-17. The slew drive was even used by Rosotics (see M1X Induction based AM for more details) durring our print head development. The model used at Rosotics has some additions to allow it to be leveled and to better survive the high temperature environment.
 
 ![image](https://github.com/user-attachments/assets/3d3a5129-1141-420d-9cef-6f5c52b067b5)
 
