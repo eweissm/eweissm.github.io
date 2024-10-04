@@ -1,3 +1,8 @@
+---
+title: "Academic Project: Neural Network Controlled Rocket Landing"
+excerpt: "![image](https://user-images.githubusercontent.com/73143081/197682335-e5587b76-6000-4574-8021-f9fc176dd308.png)"
+collection: portfolio
+---
 
 The goal of this project is to make a controller which lands a rocket at a landing pad with at the end of a given time frame. The rockets will start in random initial states and will be subjected to gravity and drag. The rocket will control its angle and thrust. 
 
