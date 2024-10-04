@@ -5,6 +5,10 @@ excerpt: "Automatic Zen Garden ![image](https://github.com/user-attachments/asse
 collection: portfolio
 ---
 
+
+https://github.com/user-attachments/assets/87ad1c28-59f6-4abb-af95-3c5c3388c9fe
+
+
 Shown below is an automatic Zen Garden, which uses a 2 DOF SCARA robot arm to position a ball bearing moving through the sand. This project consisted of numerous elements, including:
 * The design of a continuous rotation SCARA arm and its integration into the wooden housing
   *	This involved a vibration analysis to prevent the stepper motor from exciting an unlucky natural frequency of the box, causing an obnoxious noise.
