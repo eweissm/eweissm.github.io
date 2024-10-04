@@ -9,11 +9,11 @@ During my time at Rosotics inc., a startup looking to develop induction-based ad
 
 **Print Head Technology**
 	By far the most challenging aspect of the project was converting the sparse academic information that existed for induction-based metal AM into a marketable technology ready for aerospace applications. This process (in brief) included:
-•	The determination of aluminum alloys compatible with our process
-•	The determination of compatible nozzle and substrate materials.
-•	The optimization of our induction parameters (current, frequency, and coil geometry) using surface optimization in COMSOL Multiphysics
-•	Explorations of process parameters (operating temperature, feed stock diameter, mass flux, substrate material, nozzle material, shielding gas, and auxiliary heat sources)
-•	Continual refinement of the experimental setup and of process reliability
+* The determination of aluminum alloys compatible with our process
+* The determination of compatible nozzle and substrate materials
+* The optimization of our induction parameters (current, frequency, and coil geometry) using surface optimization in COMSOL Multiphysics
+* Explorations of process parameters (operating temperature, feed stock diameter, mass flux, substrate material, nozzle material, shielding gas, and auxiliary heat sources)
+* Continual refinement of the experimental setup and of process reliability
 
 ![image](https://github.com/user-attachments/assets/ce74565b-9910-4fe4-bebc-6df3a2f8b276)
 ![image](https://github.com/user-attachments/assets/9a57ab6f-337f-4a83-ad52-a5cae2d7c02d)
@@ -23,7 +23,7 @@ During my time at Rosotics inc., a startup looking to develop induction-based ad
 
 
 **2 DOF Cylindrical Printer**
-While the print head development was unequivocally a team effort, the development of the structure and controls for our full-scale prototype system fell on my shoulders as I was Rosotics’ only structural and controls engineer at the time. Thus, I was responsible for modeling the machine in SolidWorks, using FEA and first principles to validate the designs, and coordinating with machine shops to order components. I was then responsible for implementing and coding the control systems (a Parker ACR controller and drivers using a Nabtesco gearbox). The result was a machine which could locate our 40 lb. print head with 0.1 mm repeatability over a 12 ft diameter by 6 ft high cylindrical table. Additionally, the table could support an 800 lb. distributed load without the code needing to accommodate for the deflection of the print bed.
+I lead the development of our largest printer. The result was a machine which could locate our 40 lb. print head with 0.1 mm repeatability over a 12 ft diameter by 6 ft high cylindrical table. Additionally, the table could support an 800 lb. distributed load without the code needing to accommodate for the deflection of the print bed. I was then responsible for implementing and coding the control systems (a Parker ACR controller and drivers).
 
 ![image](https://github.com/user-attachments/assets/ddd25c87-d8ca-4fb1-9cd9-eca5de9f40ed)
 ![image](https://github.com/user-attachments/assets/1e1ff1f6-9029-4e67-adb8-4336e5abe2e2)
