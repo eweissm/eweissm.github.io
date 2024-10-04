@@ -5,10 +5,6 @@ excerpt: "Automatic Zen Garden ![image](https://github.com/user-attachments/asse
 collection: portfolio
 ---
 
-
-https://github.com/user-attachments/assets/87ad1c28-59f6-4abb-af95-3c5c3388c9fe
-
-
 Shown below is an automatic Zen Garden, which uses a 2 DOF SCARA robot arm to position a ball bearing moving through the sand. This project consisted of numerous elements, including:
 * The design of a continuous rotation SCARA arm and its integration into the wooden housing
   *	This involved a vibration analysis to prevent the stepper motor from exciting an unlucky natural frequency of the box, causing an obnoxious noise.
@@ -24,6 +20,8 @@ Shown below is an automatic Zen Garden, which uses a 2 DOF SCARA robot arm to po
   *	The preset paths can be passed through a parametric equation or through a G-code file via a custom regex interpreter I wrote for basic G-code commands. 
 See https://github.com/eweissm/Autonomous-Zen-Garden for code (note the code will not run unless an Arduino is plugged into the computer or if all lines beginning with “ser” are commented out). Additionally, a video of the operation can be found on the GitHub page.
 
+
+https://github.com/user-attachments/assets/87ad1c28-59f6-4abb-af95-3c5c3388c9fe
 
 ![image](https://github.com/user-attachments/assets/0cb128d9-cbb4-4c88-910d-e1362cb3b47e)
 
