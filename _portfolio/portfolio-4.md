@@ -1,6 +1,6 @@
 ---
 title: "Stewart Platform"
-excerpt: "Stewart Platform ![image](https://github.com/user-attachments/assets/b018d592-3d48-4010-a70f-0e799e612ca0)"
+excerpt: "![image](https://github.com/user-attachments/assets/b018d592-3d48-4010-a70f-0e799e612ca0)"
 collection: portfolio
 ---
 
