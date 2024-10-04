@@ -5,7 +5,8 @@ collection: portfolio
 ---
 
 During my time at Rosotics inc., a startup looking to develop induction-based additive manufacturing for use in aerospace superstructures, I was tasked to work on the Mantis project, later renamed M1X. The goals of the project were (1) to develop an induction based additive manufacturing (AM) process for high volume and safe manufacturing of aluminum components, (2) to develop a machine which could carry this print head, and (3) to convert these developments into a marketable product. Below you will find a brief discussion of the efforts that have gone into meeting these goals.
-Print Head Technology
+
+**Print Head Technology**
 	By far the most challenging aspect of the project was converting the sparse academic information that existed for induction-based metal AM into a marketable technology ready for aerospace applications. The work required for this endeavor is far too extensive to fully detail in this portfolio (it has been a multi-year endeavor), however as a quick summary this process included:
 •	The determination of aluminum alloys compatible with our process
 •	The determination of compatible nozzle and substrate materials.
@@ -13,4 +14,6 @@ Print Head Technology
 •	Explorations of process parameters (operating temperature, feed stock diameter, mass flux, substrate material, nozzle material, shielding gas, and auxiliary heat sources)
 •	Continual refinement of the experimental setup and of process reliability
 
+**2 DOF Cylindrical Printer**
+While the print head development was unequivocally a team effort, the development of the structure and controls for our full-scale prototype system fell on my shoulders as I was Rosotics’ only structural and controls engineer at the time. Thus, I was responsible for modeling the machine in SolidWorks, using FEA and first principles to validate the designs, and coordinating with machine shops to order components. I was then responsible for implementing and coding the control systems (a Parker ACR controller and drivers using a Nabtesco gearbox). The result was a machine which could locate our 40 lb. print head with 0.1 mm repeatability over a 12 ft diameter by 6 ft high cylindrical table. Additionally, the table could support an 800 lb. distributed load without the code needing to accommodate for the deflection of the print bed.
 
