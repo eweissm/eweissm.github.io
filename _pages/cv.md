@@ -51,12 +51,12 @@ excellent customer service ∙ Accounted for daily sales over $17,000 including 
 
 Skills
 ======
-*  Simulation
-  *  Incompressible CFD (Advanced)
-  *  COMSOL (Beginner)
-  *  Ansys / FLUENT (Intermediate)
-  *  ABAQUS (Beginner)
-*  Software:
+* Simulation
+  * Incompressible CFD (Advanced)
+  * COMSOL (Beginner)
+  * Ansys / FLUENT (Intermediate)
+  * ABAQUS (Beginner)
+* Software:
   *  SOLIDWORKS (Advanced)
   *  Fusion 360 (Advanced)
   *  NX (Beginner)
@@ -64,21 +64,21 @@ Skills
   *  ModelCenter(Intermediate)
   *  STM32CUBEIDE (Intermediate)
   *  Eagle (Beginner)
-*  System Design:
+* System Design:
   *  DOE (Advanced)
   *  Design Optimization (Intermediate)
   *  ARM STM32 (Beginner)
   *  Serial Robotic Systems (Intermediate)
   *  DED Additive Manufacturing Processes (Advanced)
   *  Soft Robotic Systems (Advanced)
-*  Programming:
-  *  C++ (Intermediate)
-  *  Python (Advanced)
-  *  VBA (Beginner)
-  *  C (Beginner)
-  *  MATLAB (Advanced)
-*  Certifications
-  *  Spanish (Professional Working Proficiency)- Arizona Seal of Biliteracy
+* Programming:
+  * C++ (Intermediate)
+  * Python (Advanced)
+  * VBA (Beginner)
+  * C (Beginner)
+  * MATLAB (Advanced)
+* Certifications
+  * Spanish (Professional Working Proficiency)- Arizona Seal of Biliteracy
 
 Publications
 ======
