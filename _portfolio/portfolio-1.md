@@ -19,6 +19,7 @@ During my time at Rosotics inc., a startup looking to develop induction-based ad
 ![image](https://github.com/user-attachments/assets/9a57ab6f-337f-4a83-ad52-a5cae2d7c02d)
 ![image](https://github.com/user-attachments/assets/5879519a-cfc2-4eb0-9d0f-9788bc13a1e0)
 ![IMG_0864](https://github.com/user-attachments/assets/67080cf0-6183-4a5a-96e1-ad1c24e32308)
+![image](https://github.com/user-attachments/assets/5fc6af18-e4a3-4744-a8da-047c883ed522)
 
 
 **2 DOF Cylindrical Printer**
