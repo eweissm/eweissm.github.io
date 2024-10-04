@@ -9,20 +9,28 @@ Shown below is a listing of various mixed media (wood, resin, and metal work) wh
 
 **Terrarium Stand**
 
+Pine
+
 ![IMG_9102](https://github.com/user-attachments/assets/768bfb32-ed2b-49b7-be51-9c2d4dc83b03)
 ![IMG_9104](https://github.com/user-attachments/assets/32206e87-d9d5-45af-bdf9-39ba9ebff736)
 
 **Card Box**
+
+Walnut; Pine; Steel Plate
 
 ![IMG_8491](https://github.com/user-attachments/assets/b115a3b7-e78e-4899-816c-63a1c3e3f793)
 ![IMG_8490](https://github.com/user-attachments/assets/434828ab-84ab-4493-91f8-111bcd2da710)
 
 **Diarama of Water Slash**
 
+Resin; Pine; Steel Ball Bearing
+
 ![IMG_8232](https://github.com/user-attachments/assets/ab0b7b91-9d89-44cd-ae50-6c64b300e9b8)
 ![IMG_8230](https://github.com/user-attachments/assets/d6c564eb-c0a1-4a4f-abad-b90fed1158af)
 
 **Resin Model of a Fun Character**
+
+Resin; Steel Rod; Pine
 
 ![IMG_7996](https://github.com/user-attachments/assets/fb5bb04e-a668-4463-af3d-c3095cac827c)
 ![IMG_7995](https://github.com/user-attachments/assets/14fd3086-a098-43ff-918b-1659e4046de2)
