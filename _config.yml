@@ -76,9 +76,9 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   manuscripts:
-    title: 'Put PCA title here'    
+    title: 'Articles'    
   conferences:
-    title: 'Aerodynamic Design of an Executive Transport Optimized for Flight Just Beyond Mach One'
+    title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
