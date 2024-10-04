@@ -40,6 +40,9 @@ Resin; Steel Rod; Pine; Copper Wire
 ![IMG_6900](https://github.com/user-attachments/assets/37813772-21f1-40f6-8379-5303e2dd3544)
 ![IMG_6908](https://github.com/user-attachments/assets/74a0444c-3e23-4c16-aa1a-e943e0d9ee3f)
 ![IMG_5839](https://github.com/user-attachments/assets/ab122ad2-5445-410b-8f17-61f4d7a772e6)
+![IMG_6909](https://github.com/user-attachments/assets/43c75663-b3da-48ea-915b-09b7af207400)
+![IMG_6473](https://github.com/user-attachments/assets/cb7fd25d-365e-4103-970a-fcacc87eb7f8)
+
 
 **Zen Garden with Speaker**
 
