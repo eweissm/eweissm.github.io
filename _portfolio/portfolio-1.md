@@ -1,6 +1,6 @@
 ---
 title: "M1X: Induction-Based Additive Manufacturing"
-excerpt: "Induction Based AM ![image](https://github.com/user-attachments/assets/79770cc7-200d-4c4f-86c6-eda7c0d037d5)
+excerpt: "![image](https://github.com/user-attachments/assets/79770cc7-200d-4c4f-86c6-eda7c0d037d5)
 "
 collection: portfolio
 ---
