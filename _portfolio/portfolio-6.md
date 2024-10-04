@@ -1,9 +1,12 @@
 ---
 title: "Academic Projects"
-excerpt: "Time evolution of chemical species within the mixing chamber ![image](https://github.com/user-attachments/assets/ffb41f21-976c-482c-9b9d-a8aaeae1b030)
-"
+excerpt: "Time evolution of chemical species within the mixing chamber https://github.com/user-attachments/assets/e5122afc-831d-4cc4-ad37-c405d0b55118"
 collection: portfolio
 ---
+
+
+
+
 **Ramjet Optimization Tool**
 For this project a first order design tool was developed for the optimization of design parameters for a ram/scramjet engine using MATLAB. To achieve this a first order model of a ram/scramjet was coded. Then using (1) a full factorial design exploration, (2) an SQP optimization, and (3) an fsolve optimization, the design space could be explored, and an optimal multivariate solution or solutions could be easily determined given a desired mission profile.
 For a full discussion of this project see https://github.com/eweissm/RamjetOptimizationTool.
