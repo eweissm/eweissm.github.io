@@ -1,5 +1,5 @@
 ---
-title: "Wood and Resin Working"
+title: "Mixed Media Art Projects
 excerpt: "Automatic Zen Garden ![image](https://github.com/user-attachments/assets/4814ef8b-9098-4920-9d46-4f33e112b9e2)
 "
 collection: portfolio
@@ -36,8 +36,9 @@ Resin; Steel Rod; Pine; Copper Wire
 ![IMG_7996](https://github.com/user-attachments/assets/fb5bb04e-a668-4463-af3d-c3095cac827c)
 ![IMG_7995](https://github.com/user-attachments/assets/14fd3086-a098-43ff-918b-1659e4046de2)
 ![IMG_6936](https://github.com/user-attachments/assets/6f0a4a39-7257-4e15-a5e7-b4a7c87c263a)
+![IMG_6900](https://github.com/user-attachments/assets/37813772-21f1-40f6-8379-5303e2dd3544)
 
-**Zen Garden with speaker**
+**Zen Garden with Speaker**
 
 Walnut; Pine; Sand; Speaker
 
@@ -48,7 +49,16 @@ Walnut; Pine; Sand; Speaker
 **Chess Board and Cutting Board**
 
 ![IMG_6907](https://github.com/user-attachments/assets/cfa6d0ec-28f7-4a9b-a1e1-76eba2a36ac9)
+
+**Rainbow River Side Table**
+
+Steel Fram; Walnut; Crayon; Resin
+
 ![IMG_6906](https://github.com/user-attachments/assets/bee695e0-3c87-4c45-8a11-9f99b4787063)
-![IMG_6900](https://github.com/user-attachments/assets/37813772-21f1-40f6-8379-5303e2dd3544)
+
+**Mechanical Flower**
+
+Brass; PLA
+
 ![IMG_1837](https://github.com/user-attachments/assets/b238df3f-a110-457e-b7ff-b2b1d92dcb11)
 ![IMG_1835](https://github.com/user-attachments/assets/f4c704e8-d858-4f0e-b8a8-22de8db40c93)
