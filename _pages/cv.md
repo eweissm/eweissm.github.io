@@ -52,18 +52,18 @@ excellent customer service ∙ Accounted for daily sales over $17,000 including 
 Skills
 ======
 *  Simulation
-  * Incompressible CFD (Advanced)
-  * COMSOL (Beginner)
-  * Ansys / FLUENT (Intermediate)
-  * ABAQUS (Beginner)
+  *  Incompressible CFD (Advanced)
+  *  COMSOL (Beginner)
+  *  Ansys / FLUENT (Intermediate)
+  *  ABAQUS (Beginner)
 *  Software:
-  * SOLIDWORKS (Advanced)
-  * Fusion 360 (Advanced)
-  * NX (Beginner)
-  * QuantumXL (Beginner)
-  * ModelCenter(Intermediate)
-  * STM32CUBEIDE (Intermediate)
-  * Eagle (Beginner)
+  *  SOLIDWORKS (Advanced)
+  *  Fusion 360 (Advanced)
+  *  NX (Beginner)
+  *  QuantumXL (Beginner)
+  *  ModelCenter(Intermediate)
+  *  STM32CUBEIDE (Intermediate)
+  *  Eagle (Beginner)
 *  System Design:
   *  DOE (Advanced)
   *  Design Optimization (Intermediate)
