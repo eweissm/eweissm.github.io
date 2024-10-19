@@ -26,7 +26,7 @@ reviewed publications.
 
 * Controls Engineer (08/2024 - Present)
   * Thin Film Targets
-  * Designing process for manufacturing high quality sputtering targets for use in physical vapor deposition ∙ Developing process controls archtecture, hardware, and software
+  * Designing process for manufacturing high quality sputtering targets for use in physical vapor deposition ∙ Developing process controls architecture, hardware, and software
 
 * R&D Engineer (04/2023 – 07/2024); Applied Engineering Intern (Aug. 2022 – Apr. 2023) 
   * Rosotics Inc.
@@ -87,6 +87,4 @@ Dynamics with a Commercial Package.” KEEP, May 2024.
 
 Bryan, Brendyn C., Weissman, Eric M., Phung, Jonathan V., et al. “Aerodynamic Design of an Executive Transport 
 Optimized for Flight Just Beyond Mach One.” AIAA SciTech Forum, 2025.
-
-ADD PCA
   
