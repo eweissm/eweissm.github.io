@@ -16,7 +16,7 @@ Education
   *  Summa Cumma Laude; Moeur Award; New American Univeristy President's Award
 
 
-Work experience
+Work Experience
 ======
 * Researcher (04/2024 - Present)
   * Sun Laboratory
@@ -82,9 +82,16 @@ Skills
 
 Publications
 ======
+Eric Weissman and Jiefeng Sun, "Efficient Pneumatic Twisted and Coiled Actuators through Dual Enforced Anisotropy." Transactions in Mechatronics. 2025. (Under Review)
+
 Weissman, Eric M. “Methods for Modeling Metal Additive Manufacturing Deposition Using Computational Fluid 
 Dynamics with a Commercial Package.” KEEP, May 2024.
 
 Bryan, Brendyn C., Weissman, Eric M., Phung, Jonathan V., et al. “Aerodynamic Design of an Executive Transport 
 Optimized for Flight Just Beyond Mach One.” AIAA SciTech Forum, 2025.
-  
+
+**Awards**
+======
+* GSG Jumpstart Research Grant, March 2025, Arizona State University.
+
+* Summa Cumme Laude, May 2024, Arizona State University. 
