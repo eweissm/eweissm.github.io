@@ -14,20 +14,6 @@
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-  
-    {# NEW: Show image regardless of layout type #}
-    {% if teaser %}
-      <div class="archive__item-image" style="margin: 1rem 0;">
-        <img src="
-          {% if teaser contains '://' %}
-            {{ teaser }}
-          {% else %}
-            {{ teaser | prepend: '/images/' | prepend: base_path }}
-          {% endif %}
-        " alt="{{ post.title }}" style="max-width: 100%; border-radius: 8px;" />
-      </div>
-    {% endif %}
-
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
         <img src=
