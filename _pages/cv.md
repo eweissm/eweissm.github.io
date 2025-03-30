@@ -95,3 +95,7 @@ Optimized for Flight Just Beyond Mach One.” AIAA SciTech Forum, 2025.
 * GSG Jumpstart Research Grant, March 2025, Arizona State University.
 
 * Summa Cumme Laude, May 2024, Arizona State University. 
+
+* Moeur Award, May 2024, Arizona State University. 
+
+* New American Univeristy President's Award, August 2020, Arizona State University. 
