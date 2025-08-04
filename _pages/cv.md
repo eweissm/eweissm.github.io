@@ -90,9 +90,11 @@ Dynamics with a Commercial Package.” KEEP, May 2024.
 Bryan, Brendyn C., Weissman, Eric M., Phung, Jonathan V., et al. “Aerodynamic Design of an Executive Transport 
 Optimized for Flight Just Beyond Mach One.” AIAA SciTech Forum, 2025.
 
-**Awards**
+Awards
 ======
 * GSG Jumpstart Research Grant, March 2025, Arizona State University.
+* 
+* Master’s Opportunity for Research in Engineering (MORE), December 2024, Arizona State University.
 
 * Summa Cumme Laude, May 2024, Arizona State University.
   
