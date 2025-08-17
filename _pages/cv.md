@@ -82,7 +82,7 @@ Skills
 
 Publications
 ======
-Eric Weissman and Jiefeng Sun, "Efficient Pneumatic Twisted and Coiled Actuators through Dual Enforced Anisotropy." Transactions in Mechatronics. 2025. (Under Review)
+E. Weissman, B. Ashcroft, P. Nguyen and J. Sun, "Efficient Pneumatic Twisted-and-Coiled Actuators Through Dual Enforced Anisotropy," in IEEE/ASME Transactions on Mechatronics, vol. 30, no. 4, pp. 2946-2954, Aug. 2025, doi: 10.1109/TMECH.2025.3568353.
 
 Weissman, Eric M. “Methods for Modeling Metal Additive Manufacturing Deposition Using Computational Fluid 
 Dynamics with a Commercial Package.” KEEP, May 2024.
