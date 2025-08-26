@@ -64,6 +64,9 @@ Skills
   *  ModelCenter(Intermediate)
   *  STM32CUBEIDE (Intermediate)
   *  Eagle (Beginner)
+  *  Linux (Begineer)
+  *  Docker (Begineer)
+  *  ROS (Begineer)
 * System Design:
   *  DOE (Advanced)
   *  Design Optimization (Intermediate)
