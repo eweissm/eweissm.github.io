@@ -96,7 +96,7 @@ Optimized for Flight Just Beyond Mach One.” AIAA SciTech Forum, 2025.
 Awards
 ======
 * GSG Jumpstart Research Grant, March 2025, Arizona State University.
-* 
+  
 * Master’s Opportunity for Research in Engineering (MORE), December 2024, Arizona State University.
 
 * Summa Cumme Laude, May 2024, Arizona State University.
@@ -105,4 +105,6 @@ Awards
 
 * Moeur Award, May 2024, Arizona State University. 
 
-* New American Univeristy President's Award, August 2020, Arizona State University. 
+* New American University President's Award, August 2020, Arizona State University.
+
+* Non-Traditional Student Healthcare Scholarship, August 2020, Mayo Foundation
