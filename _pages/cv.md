@@ -127,6 +127,6 @@ fertilizer run-off and freshwater depletion ∙ Responsible for regular delivera
   *  Collaborated with a multidisciplinary student team to plan and design an affordable multifamily, multigenerational housing community. Engaged with stakeholders to align design with financial objectives while creating a layout that fostered social connection, accessibility, and long-term sustainability.
  
 *  Saint Vincent DePaul’s Food Kitchen Volunteer
-  * Helped to prepare and serve free meals to homeless individuals in my community.
+  *    Helped to prepare and serve free meals to homeless individuals in my community.
 
 
