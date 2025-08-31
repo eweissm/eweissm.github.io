@@ -18,13 +18,13 @@ Education
 
 Work Experience
 ======
-* Researcher (04/2024 - Present)
+* Graduate Research Assistant (04/2024 - Present)
   * Sun Laboratory
   * Researching novel actuators for soft robotic applications ∙ Modeling Duel-Enforced Pneumatic Twisted Coiled Actuators 
 using nonlinear finite element analysis and with analytical first principles ∙ Preparing proposals, timelines, BOMs, and peer 
 reviewed publications.
 
-* Controls Engineer (08/2024 - Present)
+* Controls Engineer Intern (08/2024 - Present)
   * Thin Film Targets
   * Designing process for manufacturing high quality sputtering targets for use in physical vapor deposition ∙ Developing process controls architecture, hardware, and software
 
@@ -35,12 +35,6 @@ aerospace applications ∙ Designed mechatronic systems for both rapid prototype
 meet design constraints, hit project deadlines and budgets ∙ Used trade studies and system engineering to make informed 
 design decisions ∙ Developed accurate system models using COMSOL Multiphysics and empirical modeling ∙ Developed new 
 technologies in a startup RND while also prioritizing the safety of the team and the end users
-
-* Research and Coding Lead (08/2021 - 05/2022)
-  * Vietnam Smart Agriculture 
-  *  Lead the research and coding teams on the Vietnam Smart Agriculture community service project ∙ Team of engineering 
-students designed an integrated app and hardware kit reducing water usage on farms in the Mekong Delta ∙ Helping to limit 
-fertilizer run-off and freshwater depletion ∙ Responsible for regular deliverables (research and algorithms).
 
 * Service Mgr. (12/2021 – 01/2023); Kitchen Mgr. (08/2021- 12/2021); Crew (06/2018 – 08/2021)
   * Chipotle
@@ -95,6 +89,15 @@ Dynamics with a Commercial Package.” KEEP, May 2024.
 Bryan, Brendyn C., Weissman, Eric M., Phung, Jonathan V., et al. “Aerodynamic Design of an Executive Transport 
 Optimized for Flight Just Beyond Mach One.” AIAA SciTech Forum, 2025.
 
+Posters & Presentations
+======
+* 2025 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM2025), “Efficient Pneumatic Twisted-and-Coiled Actuators Through Dual Enforced Anisotropy”
+
+* Poster Presentation at the Southwest Robotics Symposium 2024, “Fiber Reinforced Pneumatic Twisted-and-Coiled Actuators with High Efficiency and Low Actuation Pressure”
+
+* Poster Presentation at the MORE Symposium 2024, “Fiber Reinforced Pneumatic Twisted-and-Coiled Actuators with High Efficiency and Low Actuation Pressure”
+
+
 Awards
 ======
 * GSG Jumpstart Research Grant, March 2025, Arizona State University.
@@ -110,3 +113,20 @@ Awards
 * New American University President's Award, August 2020, Arizona State University.
 
 * Non-Traditional Student Healthcare Scholarship, August 2020, Mayo Foundation
+
+Community Service
+======
+* Research and Coding Lead (08/2021 - 05/2022)
+  * Vietnam Smart Agriculture 
+  *  Lead the research and coding teams on the Vietnam Smart Agriculture community service project ∙ Team of engineering 
+students designed an integrated app and hardware kit reducing water usage on farms in the Mekong Delta ∙ Helping to limit 
+fertilizer run-off and freshwater depletion ∙ Responsible for regular deliverables (research and algorithms).
+
+* Housing Development Project Volunteer (08/2020 - 12/2020)
+  * Vietnam Smart Agriculture 
+  *  Collaborated with a multidisciplinary student team to plan and design an affordable multifamily, multigenerational housing community. Engaged with stakeholders to align design with financial objectives while creating a layout that fostered social connection, accessibility, and long-term sustainability.
+ 
+*  Saint Vincent DePaul’s Food Kitchen Volunteer
+  * Helped to prepare and serve free meals to homeless individuals in my community.
+
+
