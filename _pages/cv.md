@@ -125,8 +125,11 @@ fertilizer run-off and freshwater depletion ∙ Responsible for regular delivera
 * Housing Development Project Volunteer (08/2020 - 12/2020)
   * Vietnam Smart Agriculture 
   *  Collaborated with a multidisciplinary student team to plan and design an affordable multifamily, multigenerational housing community. Engaged with stakeholders to align design with financial objectives while creating a layout that fostered social connection, accessibility, and long-term sustainability.
- 
-*  Saint Vincent DePaul’s Food Kitchen Volunteer
+
+* Saint Vincent DePaul’s Food Kitchen Volunteer
   * Helped to prepare and serve free meals to homeless individuals in my community.
+
+
+    
 
 
