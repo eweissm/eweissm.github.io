@@ -45,7 +45,7 @@ excellent customer service ∙ Accounted for daily sales over $17,000 including 
 
 Skills
 ======
-* Simulation
+* Simulation:
   * Incompressible CFD (Advanced)
   * COMSOL (Beginner)
   * Ansys / FLUENT (Intermediate)
@@ -74,9 +74,13 @@ Skills
   * VBA (Beginner)
   * C (Beginner)
   * MATLAB (Advanced)
-* Certifications
+* Certifications:
   * Spanish (Professional Working Proficiency)- Arizona Seal of Biliteracy
-
+* Manufacturing:
+  * CNC (Beginner)
+  * Welding (Beginner)
+  * CAM (Fusion360/v-carve) (Beginner)
+    
 Publications
 ======
 E. Weissman, B. Ashcroft, P. Nguyen and J. Sun, "Efficient Pneumatic Twisted-and-Coiled Actuators Through Dual Enforced Anisotropy," in IEEE/ASME Transactions on Mechatronics, vol. 30, no. 4, pp. 2946-2954, Aug. 2025, doi: 10.1109/TMECH.2025.3568353.
