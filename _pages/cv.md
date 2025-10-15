@@ -97,6 +97,8 @@ Optimized for Flight Just Beyond Mach One.” AIAA SciTech Forum, 2025.
 
 Posters & Presentations
 ======
+* 2025 IROS, “Efficient Pneumatic Twisted-and-Coiled Actuators Through Dual Enforced Anisotropy”
+
 * 2025 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM2025), “Efficient Pneumatic Twisted-and-Coiled Actuators Through Dual Enforced Anisotropy”
 
 * Poster Presentation at the Southwest Robotics Symposium 2024, “Fiber Reinforced Pneumatic Twisted-and-Coiled Actuators with High Efficiency and Low Actuation Pressure”
