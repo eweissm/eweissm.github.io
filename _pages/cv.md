@@ -77,9 +77,10 @@ Skills
 * Certifications:
   * Spanish (Professional Working Proficiency)- Arizona Seal of Biliteracy
 * Manufacturing:
-  * CNC (Beginner)
-  * Welding (Beginner)
-  * CAM (Fusion360/v-carve) (Beginner)
+  * CNC (Intermediate)
+  * Manual Mill/ Lathe (Beginner)
+  * Welding (MIG/TIG) (Beginner)
+  * CAM (Fusion360) (Intermediate)
     
 Publications
 ======
