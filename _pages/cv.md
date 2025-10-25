@@ -78,8 +78,8 @@ Skills
   * Spanish (Professional Working Proficiency)- Arizona Seal of Biliteracy
 * Manufacturing:
   * CNC (Intermediate)
-  * Manual Mill/ Lathe (Beginner)
-  * Welding (MIG/TIG) (Beginner)
+  * Manual Mill/ Lathe (Intermediate)
+  * Welding (MIG/TIG) (Intermediate)
   * CAM (Fusion360) (Intermediate)
     
 Publications
