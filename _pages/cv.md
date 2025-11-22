@@ -109,6 +109,8 @@ Posters & Presentations
 
 Awards
 ======
+* GSG Jumpstart Research Grant, November 2025, Arizona State University.
+  
 * GSG Jumpstart Research Grant, March 2025, Arizona State University.
   
 * Master’s Opportunity for Research in Engineering (MORE), December 2024, Arizona State University.
