@@ -140,6 +140,10 @@ fertilizer run-off and freshwater depletion ∙ Responsible for regular delivera
 * Saint Vincent DePaul’s Food Kitchen Volunteer
   * Helped to prepare and serve free meals to homeless individuals in my community.
 
+* Youth Engineering Outreach
+  * Taught a class of high school students how to make artificial muscles
+  * Mentored high school students in completing technical projects
+
 
     
 
