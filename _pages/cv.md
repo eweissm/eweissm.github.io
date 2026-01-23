@@ -127,7 +127,7 @@ Awards
 
 Patents
 ======
-*Weissman, et al. 2025. SYSTEMS AND METHODS FOR A HELICAL ANISOTROPICALLY-REINFORCED POLYMER (HARP) ACTUATOR. U.S. Patent Application No. 63/962,014, filed January 16, 2026. Provisional patent. 
+* Weissman, et al. 2025. SYSTEMS AND METHODS FOR A HELICAL ANISOTROPICALLY-REINFORCED POLYMER (HARP) ACTUATOR. U.S. Patent Application No. 63/962,014, filed January 16, 2026. Provisional patent. 
 
 Community Service
 ======
