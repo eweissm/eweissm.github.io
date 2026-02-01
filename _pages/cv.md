@@ -45,6 +45,14 @@ excellent customer service ∙ Accounted for daily sales over $17,000 including 
 
 Skills
 ======
+* Robotics Specific Skills:
+  *  Soft Robotic Systems (Advanced)
+  *  Serial Robotic Systems (Intermediate)
+  * Communications Protocals
+    *  CAN (Intermediate)
+    *  RS485 (Beginner)
+    *  I2C (Beginner)
+  *  Reinforment Learning and Sim2Real Transfer (Intermediate)
 * Simulation:
   * Incompressible CFD (Advanced)
   * COMSOL (Beginner)
@@ -57,17 +65,16 @@ Skills
   *  QuantumXL (Beginner)
   *  ModelCenter(Intermediate)
   *  STM32CUBEIDE (Intermediate)
-  *  Eagle (Beginner)
-  *  Linux (Begineer)
+  *  Eagle (Intermediate)
+  *  Linux (Intermediate)
   *  Docker (Begineer)
   *  ROS (Begineer)
+  *  IsaacSim/ IsaacLab (Intermediate)
 * System Design:
   *  DOE (Advanced)
   *  Design Optimization (Intermediate)
   *  ARM STM32 (Beginner)
-  *  Serial Robotic Systems (Intermediate)
   *  DED Additive Manufacturing Processes (Advanced)
-  *  Soft Robotic Systems (Advanced)
 * Programming:
   * C++ (Intermediate)
   * Python (Advanced)
@@ -81,6 +88,7 @@ Skills
   * Manual Mill/ Lathe (Intermediate)
   * Welding (MIG/TIG) (Intermediate)
   * CAM (Fusion360) (Intermediate)
+
     
 Publications
 ======
