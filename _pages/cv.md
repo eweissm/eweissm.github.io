@@ -117,21 +117,23 @@ Posters & Presentations
 
 Awards
 ======
-* GSG Jumpstart Research Grant, November 2025, Arizona State University.
+* Scholar Award, April 2025, ARCS Foundation, $8,500
+
+* GSG Jumpstart Research Grant, November 2025, Arizona State University, $750
   
-* GSG Jumpstart Research Grant, March 2025, Arizona State University.
+* GSG Jumpstart Research Grant, March 2025, Arizona State University, $750
   
-* Master’s Opportunity for Research in Engineering (MORE), December 2024, Arizona State University.
+* Master’s Opportunity for Research in Engineering (MORE), December 2024, Arizona State University, $1,500.
 
 * Summa Cumme Laude, May 2024, Arizona State University.
   
-* GSG Travel Grant, May 2024, Arizona State University.
+* GSG Travel Grant, May 2024, Arizona State University, $1,500.
 
 * Moeur Award, May 2024, Arizona State University. 
 
-* New American University President's Award, August 2020, Arizona State University.
+* New American University President's Award, August 2020, Arizona State University, $40,000.
 
-* Non-Traditional Student Healthcare Scholarship, August 2020, Mayo Foundation
+* Non-Traditional Student Healthcare Scholarship, August 2020, Mayo Foundation, $12,000.
 
 Patents
 ======
