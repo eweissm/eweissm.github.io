@@ -117,11 +117,11 @@ Posters & Presentations
 
 Awards
 ======
-* Scholar Award, April 2025, ARCS Foundation, $8,500
+* Scholar Award, April 2025, ARCS Foundation, $8,500.
 
-* GSG Jumpstart Research Grant, November 2025, Arizona State University, $750
+* GSG Jumpstart Research Grant, November 2025, Arizona State University, $750.
   
-* GSG Jumpstart Research Grant, March 2025, Arizona State University, $750
+* GSG Jumpstart Research Grant, March 2025, Arizona State University, $750.
   
 * Master’s Opportunity for Research in Engineering (MORE), December 2024, Arizona State University, $1,500.
 
