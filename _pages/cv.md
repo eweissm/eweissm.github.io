@@ -117,7 +117,7 @@ Posters & Presentations
 
 Awards
 ======
-* Scholar Award, April 2025, ARCS Foundation, $8,500.
+* Lauber Endowment Scholar, April 2025, ARCS Foundation, $8,500.
 
 * GSG Jumpstart Research Grant, November 2025, Arizona State University, $750.
   
