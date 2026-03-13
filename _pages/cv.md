@@ -54,7 +54,7 @@ Skills:
     *  I2C (Beginner)
   *  Reinforment Learning and Sim2Real Transfer (Advanced)
 * Simulation:
-  * Incompressible CFD (Advanced)
+  * Incompressible CFD (Intermediate)
   * COMSOL (Beginner)
   * Ansys / FLUENT (Intermediate)
   * ABAQUS (Beginner)
