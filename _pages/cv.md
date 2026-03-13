@@ -43,7 +43,7 @@ scheduling, coaching, training, and daily supervision ∙ Responsible for openin
 as well as closing the location with the emphasis on minimizing labor costs, ensuring food safety, store cleanliness, and 
 excellent customer service ∙ Accounted for daily sales over $17,000 including cash ∙ Managed inventory and deliveries daily.
 
-Skills
+Skills:
 ======
 * Robotics Specific Skills:
   *  Soft Robotic Systems (Advanced)
@@ -52,31 +52,32 @@ Skills
     *  CAN (Intermediate)
     *  RS485 (Beginner)
     *  I2C (Beginner)
-  *  Reinforment Learning and Sim2Real Transfer (Intermediate)
+  *  Reinforment Learning and Sim2Real Transfer (Advanced)
 * Simulation:
   * Incompressible CFD (Advanced)
   * COMSOL (Beginner)
   * Ansys / FLUENT (Intermediate)
   * ABAQUS (Beginner)
+  * IsaacSim / IsaacLab (Intermediate)
 * Software:
   *  SOLIDWORKS (Advanced)
   *  Fusion 360 (Advanced)
-  *  NX (Beginner)
+  *  NX (Intermediate)
   *  QuantumXL (Beginner)
   *  ModelCenter(Intermediate)
-  *  STM32CUBEIDE (Intermediate)
+  *  STM32CUBEIDE (Beginner)
   *  Eagle (Intermediate)
   *  Linux (Intermediate)
   *  Docker (Begineer)
-  *  ROS (Begineer)
-  *  IsaacSim/ IsaacLab (Intermediate)
+  *  ROS (Advanced)
+  *  IsaacSim/ IsaacLab (Advanced)
 * System Design:
   *  DOE (Advanced)
   *  Design Optimization (Intermediate)
   *  ARM STM32 (Beginner)
   *  DED Additive Manufacturing Processes (Advanced)
 * Programming:
-  * C++ (Intermediate)
+  * C++ (Advanced)
   * Python (Advanced)
   * VBA (Beginner)
   * C (Beginner)
@@ -86,8 +87,17 @@ Skills
 * Manufacturing:
   * CNC (Intermediate)
   * Manual Mill/ Lathe (Intermediate)
-  * Welding (MIG/TIG) (Intermediate)
+  * Welding (MIG/TIG) (Beginner)
   * CAM (Fusion360) (Intermediate)
+
+
+> **NOTE**: Beginner, Intermediate and Advanced are defined as follows:
+> 
+> Beginner: Over 20, but less than 50 hours experience applying this skill outside a classroom.
+> 
+> Intermediate: Less than 500 hours experience applying this skill outside a classroom.
+> 
+> Advanced: Over 500 hours experience applying this skill outside a classroom.
 
     
 Publications
