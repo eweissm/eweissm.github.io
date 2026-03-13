@@ -127,7 +127,7 @@ Posters & Presentations
 
 Awards
 ======
-* NVIDIA Academic Grant Program Award, March 2025, NVidia, $17,000 in hardware
+* Academic Grant Program Award, March 2025, NVidia, $16,000 in hardware.
 
 * Lauber Endowment Scholar, April 2025, ARCS Foundation, $8,500.
 
