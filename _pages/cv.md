@@ -102,7 +102,7 @@ Skills:
     
 Publications
 ======
-E. Weissman, R. Khatavkar, J. Sun, “A Well-Tuned HARP: Versatile Artificial Muscle by Decoupling Anisotropy” PNAS. Accepted.
+E. Weissman, R. Khatavkar, J. Sun, “A Well-Tuned HARP: Versatile Artificial Muscle by Decoupling Anisotropy” PNAS. https://www.pnas.org/doi/10.1073/pnas.2529273123.
 
 E. Weissman, B. Ashcroft, P. Nguyen and J. Sun, "Efficient Pneumatic Twisted-and-Coiled Actuators Through Dual Enforced Anisotropy," in IEEE/ASME Transactions on Mechatronics, vol. 30, no. 4, pp. 2946-2954, Aug. 2025, doi: 10.1109/TMECH.2025.3568353.
 
