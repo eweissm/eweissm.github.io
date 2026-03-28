@@ -1,0 +1,14 @@
+---
+title: "Data-Efficient Real-Time Control of an Artificial-Muscle-Driven Continuum Robot with Physics-Informed Koopman Operator"
+collection: publications
+category: conferences
+permalink: /publication/Data-Efficient
+excerpt: 'Data-driven techniques enable modeling of nonlinear continuum robots directly from input–output data without relying on physics-based modeling. Among these techniques, the Koopman method has been particularly successful as it enables the application of linear optimal control techniques such as model predictive control (MPC). However, this approach requires a large amount of experimental data to capture the complex dynamics of continuum robots. To reduce the data requirements, we implemented the physics-informed Koopman operator (PIKO) based on Strang splitting that combines simulation data from a static rod-muscle coupling model. Experimental results demonstrate successful trajectory tracking with reduced experimental data requirements. Comparing models trained on different amounts of simulation and experimental data shows the advantage of this method in a low experimental data scenario.'
+date: 2/2026
+venue: 'IEEE Robotics and Automation Letters'
+slidesurl: ''
+paperurl: 'https://ieeexplore.ieee.org/document/11417449'
+citation: 'J. Wang, E. Ristich, E. Weissman, Y. Ren and J. Sun, "Data-Efficient Real-Time Control of an Artificial-Muscle-Driven Continuum Robot With Physics-Informed Koopman Operator," in IEEE Robotics and Automation Letters, vol. 11, no. 4, pp. 5080-5087, April 2026, doi: 10.1109/LRA.2026.3668444.'
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
