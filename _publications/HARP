@@ -2,7 +2,7 @@
 title: "Versatile Artificial Muscles by Decoupling Anisotropy"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/HARP
 excerpt: 'Artificial muscles offer unique advantages for robotics, but their inability to adapt to diverse scenarios significantly limits their widespread application. We present the helical anisotropically reinforced polymer actuator (HARP)—a versatile class of artificial muscles. The HARP not only exhibits state-of-the-art performance (contraction ratios up to 75%, power densities of 1.93 kW/kg, and energy efficiencies of 29%) but also possesses a broad and decoupled design space, i.e., the anisotropy source, tube, and core can be independently and freely selected. This decoupled design space enables the selection of numerous useful properties (e.g., abrasion resistance, high specific work, etc.). Using this, we demonstrate that the HARP can satisfy the requirements of diverse applications by tuning the selection of parameters. This is especially important for applications necessitating multiple requirements simultaneously, like a maneuverable continuum robot or an untethered musculoskeletal quadruped. Unifying high performance with versatility within a single artificial muscle framework, the HARP offers a practical path toward deploying artificial muscles across a wide spectrum of robotic systems.'
 date: 3/2026
 venue: 'PNAS'
