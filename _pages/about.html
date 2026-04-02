@@ -2,47 +2,175 @@
 permalink: /
 title: "Hello! Welcome to my professional portfolio!"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-<div style="max-width: 960px; margin: auto; padding: 2rem; font-family: Arial, sans-serif; line-height: 1.6;">
+<style>
+  .portfolio-wrap {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 2rem 1.25rem 3rem;
+    line-height: 1.7;
+  }
 
-  <p style="font-size: 1.1rem;">
-    Here, you’ll find a collection of my work in robotics, engineering, design, and research. 
-    Explore my publications, projects, and technical contributions, and get an inside look at the innovations I’m passionate about.
-    Thank you for visiting!
-  </p>
+  .hero {
+    text-align: center;
+    margin-bottom: 2.5rem;
+  }
 
-  <div style="text-align: center; margin: 2rem 0;">
-    <video width="100%" height="auto" controls loop muted autoplay style="border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+  .hero h1 {
+    font-size: 2.2rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .hero p {
+    font-size: 1.08rem;
+    color: #444;
+    max-width: 760px;
+    margin: 0 auto;
+  }
+
+  .section {
+    margin-top: 2.5rem;
+  }
+
+  .section h2 {
+    font-size: 1.6rem;
+    margin-bottom: 1rem;
+    padding-bottom: 0.35rem;
+    border-bottom: 2px solid #e9e9e9;
+  }
+
+  .card {
+    background: #fff;
+    border: 1px solid #eaeaea;
+    border-radius: 14px;
+    padding: 1.2rem;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.05);
+    margin-top: 1rem;
+  }
+
+  .media {
+    margin: 1rem 0 0;
+  }
+
+  .media video {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    display: block;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.10);
+  }
+
+  .news-card {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  .news-label {
+    font-size: 0.85rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: #666;
+  }
+
+  .news-title {
+    font-size: 1.15rem;
+    font-weight: 700;
+    margin: 0;
+  }
+
+  .news-copy {
+    margin: 0;
+    color: #444;
+  }
+
+  .news-link {
+    display: inline-block;
+    width: fit-content;
+    padding: 0.6rem 1rem;
+    border-radius: 999px;
+    background: #111827;
+    color: #fff !important;
+    text-decoration: none !important;
+    font-weight: 600;
+    transition: transform 0.15s ease, opacity 0.15s ease;
+  }
+
+  .news-link:hover {
+    transform: translateY(-1px);
+    opacity: 0.92;
+  }
+
+  .highlight-title {
+    font-weight: 700;
+    margin: 0 0 0.65rem;
+  }
+
+  .spacer {
+    height: 0.25rem;
+  }
+</style>
+
+<div class="portfolio-wrap">
+
+  <div class="hero">
+    <h1>Hello! Welcome to my professional portfolio!</h1>
+    <p>
+      Here, you’ll find a collection of my work in robotics, engineering, design, and research.
+      Explore my publications, projects, and technical contributions, and get an inside look at the innovations I’m passionate about.
+      Thank you for visiting!
+    </p>
+  </div>
+
+  <div class="card media">
+    <video controls loop muted autoplay playsinline>
       <source src="https://github.com/eweissm/eweissm.github.io/raw/refs/heads/master/assets/PunchyPortfolio_3.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </div>
 
-  <h2>News</h2>
-  https://techxplore.com/news/2026-04-air-powered-artificial-muscles-robots.html#google_vignette
-  
-  <h2>Highlights</h2>
+  <div class="section">
+    <h2>News</h2>
 
-  <p style="font-weight: bold;">A Well-Tuned HARP: Versatile Artificial Muscles by Decoupling Anisotropy (Sound On):</p>
-
-  <div style="text-align: center; margin-top: 1rem;">
-    <video width="100%" height="auto" controls loop muted autoplay style="border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-      <source src="https://github.com/eweissm/eweissm.github.io/raw/refs/heads/master/assets/highlights2.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
+    <div class="card news-card">
+      <div class="news-label">News coverage</div>
+      <p class="news-title">Air-powered artificial muscles for robots</p>
+      <p class="news-copy">
+        A feature on recent work related to air-powered artificial muscles and soft robotics.
+      </p>
+      <a class="news-link" href="https://techxplore.com/news/2026-04-air-powered-artificial-muscles-robots.html#google_vignette" target="_blank" rel="noopener noreferrer">
+        Read the article
+      </a>
+    </div>
   </div>
-  
-  <p style="font-weight: bold;">Efficient Pneumatic Twisted and Coiled Actuators through Dual Enforced Anisotropy:</p>
 
-  <div style="text-align: center; margin-top: 1rem;">
-    <video width="100%" height="auto" controls loop muted autoplay style="border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-      <source src="https://github.com/eweissm/eweissm.github.io/raw/refs/heads/master/assets/FR_PTCA_TMECH_V6.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
+  <div class="section">
+    <h2>Highlights</h2>
+
+    <div class="card">
+      <p class="highlight-title">A Well-Tuned HARP: Versatile Artificial Muscles by Decoupling Anisotropy (Sound On)</p>
+      <div class="media">
+        <video controls loop muted autoplay playsinline>
+          <source src="https://github.com/eweissm/eweissm.github.io/raw/refs/heads/master/assets/highlights2.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </div>
+    </div>
+
+    <div class="card">
+      <p class="highlight-title">Efficient Pneumatic Twisted and Coiled Actuators through Dual Enforced Anisotropy</p>
+      <div class="media">
+        <video controls loop muted autoplay playsinline>
+          <source src="https://github.com/eweissm/eweissm.github.io/raw/refs/heads/master/assets/FR_PTCA_TMECH_V6.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </div>
+    </div>
   </div>
 
 </div>
