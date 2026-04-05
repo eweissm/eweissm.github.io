@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Summary
+======
+Passionate engineer and PhD student in mechanical engineering, pioneering the next generation of soft robotics for agile, quadrupedal systems to revolutionize exploration and mobility. 
+
 Education
 ======
 * Ph.D Mechanical Engineering, Arizona State University, 2028 (expected)
@@ -20,11 +24,9 @@ Work Experience
 ======
 * Graduate Research Assistant (04/2024 - Present)
   * Sun Laboratory
-  * Researching novel actuators for soft robotic applications ∙ Modeling Duel-Enforced Pneumatic Twisted Coiled Actuators 
-using nonlinear finite element analysis and with analytical first principles ∙ Preparing proposals, timelines, BOMs, and peer 
-reviewed publications.
+  * Developing state-of-the-art quadruped robots with compliant spines, controlled with reinforcement learning ∙ Researching novel artificial muscles for soft robotic applications ∙ Preparing proposals, timelines, BOMs, and peer reviewed publications.
 
-* Controls Engineer Intern (08/2024 - Present)
+* Controls Engineer (08/2024 - 05/2025)
   * Thin Film Targets
   * Designing process for manufacturing high quality sputtering targets for use in physical vapor deposition ∙ Developing process controls architecture, hardware, and software
 
