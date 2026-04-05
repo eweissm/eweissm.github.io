@@ -50,11 +50,11 @@ Skills:
 * Robotics Specific Skills:
   *  Soft Robotic Systems (Advanced)
   *  Serial Robotic Systems (Intermediate)
-  * Communications Protocals
+  * Communications Protocols
     *  CAN (Intermediate)
     *  RS485 (Beginner)
     *  I2C (Beginner)
-  *  Reinforment Learning and Sim2Real Transfer (Advanced)
+  *  Reinforcement Learning and Sim2Real Transfer (Advanced)
 * Simulation:
   * Incompressible CFD (Intermediate)
   * COMSOL (Beginner)
