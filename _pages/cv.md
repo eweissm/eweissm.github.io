@@ -70,7 +70,7 @@ Skills:
   *  STM32CUBEIDE (Beginner)
   *  Eagle (Intermediate)
   *  Linux (Intermediate)
-  *  Docker (Begineer)
+  *  Docker (Beginner)
   *  ROS (Advanced)
 * System Design:
   *  DOE (Advanced)
