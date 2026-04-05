@@ -60,7 +60,7 @@ Skills:
   * COMSOL (Beginner)
   * Ansys / FLUENT (Intermediate)
   * ABAQUS (Beginner)
-  * IsaacSim / IsaacLab (Intermediate)
+  * IsaacSim / IsaacLab (Advanced)
 * Software:
   *  SOLIDWORKS (Advanced)
   *  Fusion 360 (Advanced)
@@ -72,7 +72,6 @@ Skills:
   *  Linux (Intermediate)
   *  Docker (Begineer)
   *  ROS (Advanced)
-  *  IsaacSim/ IsaacLab (Advanced)
 * System Design:
   *  DOE (Advanced)
   *  Design Optimization (Intermediate)
