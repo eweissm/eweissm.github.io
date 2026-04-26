@@ -128,7 +128,9 @@ Posters & Presentations
 
 Awards
 ======
-* Academic Grant Program Award, March 2025, NVidia, $16,000 in hardware.
+* GSG Jumpstart Research Grant, April 2026, Arizona State University, $750.
+
+*  Academic Grant Program Award, March 2025, NVidia, $16,000 in hardware.
 
 * Lauber Endowment Scholar, April 2025, ARCS Foundation, $8,500.
 
