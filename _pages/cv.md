@@ -128,6 +128,8 @@ Posters & Presentations
 
 Awards
 ======
+* GSG Publication Grant, June 2026, Arizona State University, $1,200.
+
 * GSG Jumpstart Research Grant, April 2026, Arizona State University, $750.
 
 *  Academic Grant Program Award, March 2025, NVidia, $16,000 in hardware.
