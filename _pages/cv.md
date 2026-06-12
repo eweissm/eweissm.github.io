@@ -90,7 +90,10 @@ Skills:
   * Manual Mill/ Lathe (Intermediate)
   * Welding (MIG/TIG) (Beginner)
   * CAM (Fusion360) (Intermediate)
-
+* Software & Technical Communication
+  * Adobe Illustrator (Advanced)
+  * Photoshop (Beginner)
+  * Premiere Pro (Intermediate)
 
 > **NOTE**: Beginner, Intermediate and Advanced are defined as follows:
 > 
