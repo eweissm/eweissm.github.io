@@ -11,8 +11,7 @@ MothEye is a robotic vision system designed to rapidly detect diamondback moth (
 
 We developed a robotic inspection platform that combines automated camera motion, computer vision, and AI-based pest detection. A robotic arm moves a multi-camera array around brassica plants, capturing consistent views that are automatically processed to distinguish infested from healthy plants. The approach is designed to eventually inspect transplant trays directly on delivery trucks—without unloading them.
 
-![Uploading Artboard 3_1.png…]()
-
+<img width="3151" height="4996" alt="Artboard 3_1" src="https://github.com/user-attachments/assets/c8865b0d-2cba-4456-9975-0eec7b56f230" />
 
 **From Robot Motion to AI Detection**
 
@@ -20,7 +19,8 @@ For our proof-of-concept, we used a robotic arm to automatically collect video o
 
 The prototype identified DBM infestation across 14 plants in just 10 seconds with 98.7% classification accuracy, demonstrating the potential for robotics and AI to dramatically increase the speed and coverage of agricultural pest inspection.
 
-![Uploading Artboard 4.png…]()
+
+<img width="3151" height="3782" alt="Artboard 4" src="https://github.com/user-attachments/assets/5b90011a-724a-451d-8b66-9c7498fe61b5" />
 
 
 **Scaling to Real-World Inspection**
