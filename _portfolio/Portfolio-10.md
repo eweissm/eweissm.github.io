@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 **MothEye: AI-Robotic Pest Detection**
-
+[![AI-Driven Agricultural Pest Detection](https://img.youtube.com/vi/weXwBT29_oo/maxresdefault.jpg)](https://www.youtube.com/watch?v=weXwBT29_oo) (click to play)
 
 MothEye is a robotic vision system designed to rapidly detect diamondback moth (DBM) infestations in commercial brassica transplant shipments. Current inspections rely on manual sampling, making it difficult to thoroughly screen the thousands of plants transported into agricultural regions.
 
