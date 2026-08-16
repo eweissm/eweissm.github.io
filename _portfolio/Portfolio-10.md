@@ -1,6 +1,6 @@
 ---
 title: "AI-Driven Agricultural Pest Detection"
-excerpt: "[/assets/videos/pest-detection.mp4](https://github.com/user-attachments/assets/eeb3ac0f-87be-4d02-9336-bc3d047e5408)"
+excerpt: "[/assets/videos/pest-detection.mp4](https://github.com/user-attachments/assets/eeb3ac0f-87be-4d02-9336-bc3d047e5408) (click to play)"
 collection: portfolio
 ---
 
