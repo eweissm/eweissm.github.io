@@ -1,6 +1,6 @@
 ---
 title: "AI-Driven Agricultural Pest Detection"
-excerpt: '<video autoplay loop muted playsinline style="width:100%; border-radius:8px;"><source src="assets/DBM_vid (1).mp4" type="video/mp4"></video>'
+excerpt: "[![AI-Driven Agricultural Pest Detection](https://img.youtube.com/vi/weXwBT29_oo/maxresdefault.jpg)](https://www.youtube.com/watch?v=weXwBT29_oo)"
 collection: portfolio
 ---
 
