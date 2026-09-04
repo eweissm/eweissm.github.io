@@ -120,6 +120,9 @@ Optimized for Flight Just Beyond Mach One.” AIAA SciTech Forum, 2025.
 
 Posters & Presentations
 ======
+
+Presentations
+
 * 2025 IROS, “Efficient Pneumatic Twisted-and-Coiled Actuators Through Dual Enforced Anisotropy”
 
 * 2025 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM2025), “Efficient Pneumatic Twisted-and-Coiled Actuators Through Dual Enforced Anisotropy”
@@ -128,6 +131,9 @@ Posters & Presentations
 
 * Poster Presentation at the MORE Symposium 2024, “Fiber Reinforced Pneumatic Twisted-and-Coiled Actuators with High Efficiency and Low Actuation Pressure”
 
+Invited Talks
+
+“A Well-Tuned HARP: Versatile Artificial Muscles by Decoupling Anisotropy”, Guest Lecturer, Arizona State University, Nov. 2025, Apr. 2026. Invited by Dr. Yi Ren, Dr. Hamid Marvi.
 
 Awards
 ======
@@ -157,7 +163,24 @@ Awards
 
 Patents
 ======
-* Weissman, et al. 2025. SYSTEMS AND METHODS FOR A HELICAL ANISOTROPICALLY-REINFORCED POLYMER (HARP) ACTUATOR. U.S. Patent Application No. 63/962,014, filed January 16, 2026. Provisional patent. 
+* Weissman, et al. 2025. SYSTEMS AND METHODS FOR A HELICAL ANISOTROPICALLY-REINFORCED POLYMER (HARP) ACTUATOR. U.S. Patent Application No. 63/962,014, filed January 16, 2026. Provisional patent.
+
+Media Coverage
+======
+* ASU Engineering: Nine Fulton Schools students named ARCS scholars for 2026–27 (Aug. 2026)
+  
+* Tech Xplore: Air-powered artificial muscles could help robots lift 100 times their weight (Apr. 2026)
+  
+* Global Biz Newsroom: Giving robots more muscle can help them lose weight (date)
+  
+* MSN: US scientists develop air-powered robotic muscles (Apr. 2026)
+  
+* KJZZ: ASU research team is working to develop artificial muscles in robots (Apr. 2026)
+  
+* Tech Briefs: How Arizona State University is putting muscle into robotics (Apr. 2026)
+  
+* Tech Briefs: Lean, Mean, Machine: The case for robotic muscles over motors (Apr. 2026)
+  
 
 Community Service
 ======
@@ -170,14 +193,19 @@ fertilizer run-off and freshwater depletion ∙ Responsible for regular delivera
 * Housing Development Project Volunteer (08/2020 - 12/2020)
   *  Collaborated with a multidisciplinary student team to plan and design an affordable multifamily, multigenerational housing community. Engaged with stakeholders to align design with financial objectives while creating a layout that fostered social connection, accessibility, and long-term sustainability.
 
-* Saint Vincent DePaul’s Food Kitchen Volunteer
-  * Helped to prepare and serve free meals to homeless individuals in my community.
+* Saint Vincent DePaul’s Food Kitchen Volunteer (2024 – Present)
+  * Helped to prepare and serve free meals to homeless individuals in my community (twice monthly).
 
-* Youth Engineering Outreach
+* Youth Engineering Outreach (2025)
   * Taught a class of high school students how to make artificial muscles
   * Mentored high school students in completing technical projects
+    
+* Student Research Mentor:
+  * Enea Barbanti (2025-2026), Rahul Rajesh (2025-present), Celina Tram (2025), Phong Nguyen (2024-2025), Jayden Lui (2026-present), Luka Lin (2026-Present)
 
 
     
-
-
+Academic Activities
+======
+Reviewer (Reviewed 20+ papers)
+– Journals: IEEE Transactions on Robotics (T-RO); IEEE/ASME Transactions on Mechatronics (T-Mech); Bioinspiration & Biomimetics (B&B); Advanced Robotics Research; Science Advances.
