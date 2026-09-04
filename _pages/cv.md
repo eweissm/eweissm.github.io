@@ -49,16 +49,16 @@ excellent customer service ∙ Accounted for daily sales over $17,000 including 
     
 Publications
 ======
-E. Weissman, R. Khatavkar, J. Sun, “A Well-Tuned HARP: Versatile Artificial Muscle by Decoupling Anisotropy” PNAS. https://www.pnas.org/doi/10.1073/pnas.2529273123.
+**E. Weissman**, R. Khatavkar, J. Sun, “A Well-Tuned HARP: Versatile Artificial Muscle by Decoupling Anisotropy” **PNAS**. https://www.pnas.org/doi/10.1073/pnas.2529273123.
 
-E. Weissman, B. Ashcroft, P. Nguyen and J. Sun, "Efficient Pneumatic Twisted-and-Coiled Actuators Through Dual Enforced Anisotropy," in IEEE/ASME Transactions on Mechatronics, vol. 30, no. 4, pp. 2946-2954, Aug. 2025, doi: 10.1109/TMECH.2025.3568353.
+**E. Weissman**, B. Ashcroft, P. Nguyen and J. Sun, "Efficient Pneumatic Twisted-and-Coiled Actuators Through Dual Enforced Anisotropy," in IEEE/ASME Transactions on Mechatronics, vol. 30, no. 4, pp. 2946-2954, Aug. 2025, doi: 10.1109/TMECH.2025.3568353.
 
-J. Wang, E. Ristich, E. Weissman, Y. Ren and J. Sun, "Data-Efficient Real-Time Control of an Artificial-Muscle-Driven Continuum Robot with Physics-Informed Koopman Operator," in IEEE Robotics and Automation Letters, doi: 10.1109/LRA.2026.3668444 
+J. Wang, E. Ristich, **E. Weissman**, Y. Ren and J. Sun, "Data-Efficient Real-Time Control of an Artificial-Muscle-Driven Continuum Robot with Physics-Informed Koopman Operator," in IEEE Robotics and Automation Letters, doi: 10.1109/LRA.2026.3668444 
 
-Weissman, Eric M. “Methods for Modeling Metal Additive Manufacturing Deposition Using Computational Fluid 
+**Weissman, Eric M**. “Methods for Modeling Metal Additive Manufacturing Deposition Using Computational Fluid 
 Dynamics with a Commercial Package.” KEEP, May 2024.
 
-Bryan, Brendyn C., Weissman, Eric M., Phung, Jonathan V., et al. “Aerodynamic Design of an Executive Transport 
+Bryan, Brendyn C., **Weissman, Eric M**., Phung, Jonathan V., et al. “Aerodynamic Design of an Executive Transport 
 Optimized for Flight Just Beyond Mach One.” AIAA SciTech Forum, 2025.
 
 Posters & Presentations
