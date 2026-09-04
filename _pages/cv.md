@@ -45,63 +45,6 @@ scheduling, coaching, training, and daily supervision ∙ Responsible for openin
 as well as closing the location with the emphasis on minimizing labor costs, ensuring food safety, store cleanliness, and 
 excellent customer service ∙ Accounted for daily sales over $17,000 including cash ∙ Managed inventory and deliveries daily.
 
-Skills:
-======
-* Robotics Specific Skills:
-  *  Soft Robotic Systems (Advanced)
-  *  Serial Robotic Systems (Intermediate)
-  * Communications Protocols
-    *  CAN (Intermediate)
-    *  RS485 (Beginner)
-    *  I2C (Beginner)
-  *  Reinforcement Learning and Sim2Real Transfer (Advanced)
-* Simulation:
-  * Incompressible CFD (Intermediate)
-  * COMSOL (Beginner)
-  * Ansys / FLUENT (Intermediate)
-  * ABAQUS (Beginner)
-  * IsaacSim / IsaacLab (Advanced)
-* Software:
-  *  SOLIDWORKS (Advanced)
-  *  Fusion 360 (Advanced)
-  *  NX (Intermediate)
-  *  QuantumXL (Beginner)
-  *  ModelCenter(Intermediate)
-  *  STM32CUBEIDE (Beginner)
-  *  Eagle (Intermediate)
-  *  Linux (Intermediate)
-  *  Docker (Beginner)
-  *  ROS (Advanced)
-* System Design:
-  *  DOE (Advanced)
-  *  Design Optimization (Intermediate)
-  *  ARM STM32 (Beginner)
-  *  DED Additive Manufacturing Processes (Advanced)
-* Programming:
-  * C++ (Advanced)
-  * Python (Advanced)
-  * VBA (Beginner)
-  * C (Beginner)
-  * MATLAB (Advanced)
-* Certifications:
-  * Spanish (Professional Working Proficiency)- Arizona Seal of Biliteracy
-* Manufacturing:
-  * CNC (Intermediate)
-  * Manual Mill/ Lathe (Intermediate)
-  * Welding (MIG/TIG) (Beginner)
-  * CAM (Fusion360) (Intermediate)
-* Software & Technical Communication
-  * Adobe Illustrator (Advanced)
-  * Photoshop (Beginner)
-  * Premiere Pro (Intermediate)
-
-> **NOTE**: Beginner, Intermediate and Advanced are defined as follows:
-> 
-> Beginner: Over 20, but less than 50 hours experience applying this skill outside a classroom.
-> 
-> Intermediate: Less than 500 hours experience applying this skill outside a classroom.
-> 
-> Advanced: Over 500 hours experience applying this skill outside a classroom.
 
     
 Publications
@@ -203,9 +146,66 @@ fertilizer run-off and freshwater depletion ∙ Responsible for regular delivera
 * Student Research Mentor:
   * Enea Barbanti (2025-2026), Rahul Rajesh (2025-present), Celina Tram (2025), Phong Nguyen (2024-2025), Jayden Lui (2026-present), Luka Lin (2026-Present)
 
-
-    
 Academic Activities
 ======
 Reviewer (Reviewed 20+ papers)
 – Journals: IEEE Transactions on Robotics (T-RO); IEEE/ASME Transactions on Mechatronics (T-Mech); Bioinspiration & Biomimetics (B&B); Advanced Robotics Research; Science Advances.
+
+Skills:
+======
+* Robotics Specific Skills:
+  *  Soft Robotic Systems (Advanced)
+  *  Serial Robotic Systems (Intermediate)
+  * Communications Protocols
+    *  CAN (Intermediate)
+    *  RS485 (Beginner)
+    *  I2C (Beginner)
+  *  Reinforcement Learning and Sim2Real Transfer (Advanced)
+* Simulation:
+  * Incompressible CFD (Intermediate)
+  * COMSOL (Beginner)
+  * Ansys / FLUENT (Intermediate)
+  * ABAQUS (Beginner)
+  * IsaacSim / IsaacLab (Advanced)
+* Software:
+  *  SOLIDWORKS (Advanced)
+  *  Fusion 360 (Advanced)
+  *  NX (Intermediate)
+  *  QuantumXL (Beginner)
+  *  ModelCenter(Intermediate)
+  *  STM32CUBEIDE (Beginner)
+  *  Eagle (Intermediate)
+  *  Linux (Intermediate)
+  *  Docker (Beginner)
+  *  ROS (Advanced)
+* System Design:
+  *  DOE (Advanced)
+  *  Design Optimization (Intermediate)
+  *  ARM STM32 (Beginner)
+  *  DED Additive Manufacturing Processes (Advanced)
+* Programming:
+  * C++ (Advanced)
+  * Python (Advanced)
+  * VBA (Beginner)
+  * C (Beginner)
+  * MATLAB (Advanced)
+* Certifications:
+  * Spanish (Professional Working Proficiency)- Arizona Seal of Biliteracy
+* Manufacturing:
+  * CNC (Intermediate)
+  * Manual Mill/ Lathe (Intermediate)
+  * Welding (MIG/TIG) (Beginner)
+  * CAM (Fusion360) (Intermediate)
+* Software & Technical Communication
+  * Adobe Illustrator (Advanced)
+  * Photoshop (Beginner)
+  * Premiere Pro (Intermediate)
+
+> **NOTE**: Beginner, Intermediate and Advanced are defined as follows:
+> 
+> Beginner: Over 20, but less than 50 hours experience applying this skill outside a classroom.
+> 
+> Intermediate: Less than 500 hours experience applying this skill outside a classroom.
+> 
+> Advanced: Over 500 hours experience applying this skill outside a classroom.
+
