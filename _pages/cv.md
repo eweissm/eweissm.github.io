@@ -121,7 +121,7 @@ Optimized for Flight Just Beyond Mach One.” AIAA SciTech Forum, 2025.
 Posters & Presentations
 ======
 
-Presentations
+_Presentations_
 
 * 2025 IROS, “Efficient Pneumatic Twisted-and-Coiled Actuators Through Dual Enforced Anisotropy”
 
@@ -131,9 +131,9 @@ Presentations
 
 * Poster Presentation at the MORE Symposium 2024, “Fiber Reinforced Pneumatic Twisted-and-Coiled Actuators with High Efficiency and Low Actuation Pressure”
 
-Invited Talks
+_Invited Talks_
 
-“A Well-Tuned HARP: Versatile Artificial Muscles by Decoupling Anisotropy”, Guest Lecturer, Arizona State University, Nov. 2025, Apr. 2026. Invited by Dr. Yi Ren, Dr. Hamid Marvi.
+* “A Well-Tuned HARP: Versatile Artificial Muscles by Decoupling Anisotropy”, Guest Lecturer, Arizona State University, Nov. 2025, Apr. 2026. Invited by Dr. Yi Ren, Dr. Hamid Marvi.
 
 Awards
 ======
