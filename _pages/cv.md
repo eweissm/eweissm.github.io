@@ -65,6 +65,11 @@ Posters & Presentations
 ======
 
 _Presentations_
+* 2026 IROS, "A Well Tuned HARP: Versatile Artificial Muscles by Decoupling Anisotropy".
+*    Neuromuscular Robotics Workshop
+*    Mechanically Intelligent Soft Robotics Workshop
+*    When Muscles Think Workshop
+*    Adaptive Manipulation: Bridging Rigid and Soft Robotics in Underwater Environments Workshop
 
 * 2025 IROS, “Efficient Pneumatic Twisted-and-Coiled Actuators Through Dual Enforced Anisotropy”
 
@@ -80,6 +85,10 @@ _Invited Talks_
 
 Awards
 ======
+* Best Poster Award (3rd Place), October 2026, IROS, Neuromuscular Robotics Workshop.
+
+* GSG Jumpstart Research Grant, October 2026, Arizona State University, $750.
+
 * GSG Publication Grant, June 2026, Arizona State University, $1,200.
 
 * GSG Jumpstart Research Grant, April 2026, Arizona State University, $750.
