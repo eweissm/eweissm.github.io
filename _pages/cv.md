@@ -66,10 +66,10 @@ Posters & Presentations
 
 _Presentations_
 * 2026 IROS, "A Well Tuned HARP: Versatile Artificial Muscles by Decoupling Anisotropy".
-  *    Neuromuscular Robotics Workshop
-  *    Mechanically Intelligent Soft Robotics Workshop
-  *    When Muscles Think Workshop
-  *    Adaptive Manipulation: Bridging Rigid and Soft Robotics in Underwater Environments Workshop
+  *    Neuromuscular Robotics Workshop (poster and presentation)
+  *    Mechanically Intelligent Soft Robotics Workshop (poster)
+  *    When Muscles Think Workshop (poster and presentation)
+  *    Adaptive Manipulation: Bridging Rigid and Soft Robotics in Underwater Environments Workshop (poster)
 
 * 2025 IROS, “Efficient Pneumatic Twisted-and-Coiled Actuators Through Dual Enforced Anisotropy”
 
