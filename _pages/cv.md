@@ -132,7 +132,10 @@ Media Coverage
 * Tech Briefs: How Arizona State University is putting muscle into robotics (Apr. 2026)
   
 * Tech Briefs: Lean, Mean, Machine: The case for robotic muscles over motors (Apr. 2026)
-  
+
+Funded Proposals
+======
+* MothEye: Rapid AI-Robotic Inspection of Brassica Transplant Shipments for Diamondback Moth Detection (2026). Funded by the Arizona Hub for Agricultural Innovation (AIL) ($80,000). Authored the proposal under the supervision of Dr. Jiefeng Sun and Dr. Wilfrid Calvin.
 
 Community Service
 ======
