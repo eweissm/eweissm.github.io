@@ -133,9 +133,24 @@ Media Coverage
   
 * Tech Briefs: Lean, Mean, Machine: The case for robotic muscles over motors (Apr. 2026)
 
-Funded Proposals
+Academic Activities
 ======
+
+**Funded Proposals**
+
+
 * MothEye: Rapid AI-Robotic Inspection of Brassica Transplant Shipments for Diamondback Moth Detection (2026). Funded by the Arizona Hub for Agricultural Innovation (AIL) ($80,000). Authored the proposal under the supervision of Dr. Jiefeng Sun and Dr. Wilfrid Calvin.
+
+**Institutional Animal Care and Use Committee Clearence**
+
+* Motion Tracking of Canines for Motion Imitation by a Spined Quadruped Robot — Arizona State University, 2026
+Prepared the animal-use protocol and navigated the Institutional Animal Care and Use Committee (IACUC) review process, securing approval for noninvasive canine motion-capture research (Protocol #27-2257R).
+
+**Reviewer** 
+
+*  Reviewed 30+ papers
+  
+*  Journals: IEEE Transactions on Robotics (T-RO); IEEE/ASME Transactions on Mechatronics (T-Mech); Bioinspiration & Biomimetics (B&B); Advanced Robotics Research; Science Advances.
 
 Community Service
 ======
@@ -158,10 +173,7 @@ fertilizer run-off and freshwater depletion ∙ Responsible for regular delivera
 * Student Research Mentor:
   * Enea Barbanti (2025-2026), Rahul Rajesh (2025-present), Celina Tram (2025), Phong Nguyen (2024-2025), Jayden Lui (2026-present), Luka Lin (2026-Present)
 
-Academic Activities
-======
-Reviewer (Reviewed 20+ papers)
-– Journals: IEEE Transactions on Robotics (T-RO); IEEE/ASME Transactions on Mechatronics (T-Mech); Bioinspiration & Biomimetics (B&B); Advanced Robotics Research; Science Advances.
+
 
 Skills:
 ======
